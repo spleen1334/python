@@ -1,0 +1,17 @@
+.DS_STORE
+
+# ENVIRONMENTS
+.env
+.venv
+env/
+venv/
+ENV/
+
+# STATIC
+static_cdn/
+
+# BYTE-COMPILED / OPTIMIZED / DLL FILES
+__pycache__/
+
+# EDITOR
+.vscode
